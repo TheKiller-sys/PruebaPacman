@@ -1,0 +1,8 @@
+{
+  "name": "pacman-clone",
+  "version": "1.0.0",
+  "description": "Pac-Man clone desplegado en Render",
+  "scripts": {
+    "build": "echo \"No build needed\" && exit 0"
+  }
+}
